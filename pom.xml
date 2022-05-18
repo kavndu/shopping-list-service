@@ -53,6 +53,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>shopping-list-service</finalName>
     </build>
 
 </project>
